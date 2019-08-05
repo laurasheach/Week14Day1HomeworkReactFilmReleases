@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Header from '../components/Header.js';
 import FilmList from '../components/FilmList.js';
 import UpComingLink from '../components/UpComingLink.js';
+import './MovieBox.css'
 
 class MovieBox extends Component {
 
