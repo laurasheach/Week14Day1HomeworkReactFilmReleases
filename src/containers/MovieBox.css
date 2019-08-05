@@ -1,9 +1,8 @@
 .movie-box {
+  padding: 20px;
   background-color: lightgrey;
-  height: 50vh;
   width: 30vw;
-  display: flex;
-  flex-flow: row wrap;
+  margin: 15px auto;
   border: solid 2px black;
   border-radius: 10px;
 }

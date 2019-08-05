@@ -1,6 +1,5 @@
 .film-list {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  
+  margin: 15px;
+  border-top: solid 2px white;
+  border-bottom: solid 2px white;
 }

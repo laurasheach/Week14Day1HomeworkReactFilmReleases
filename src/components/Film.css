@@ -5,11 +5,12 @@
 }
 
 .film {
-  margin: 0 20px;
+  padding: 20px;
   font-size: 20px;
 }
 
 
 li {
   list-style-type: circle;
+  color: black;
 }
